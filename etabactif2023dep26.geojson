@@ -1,0 +1,343 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.1107506,44.7662807 ]
+    },
+    "properties": {
+    "siren":843305392,
+    "dateCreationEtablissement":"16/10/2018",
+    "activitePrincipaleRegistreMetiersEtablissement":"4776Z",
+    "dateDernierTraitementEtablissement":"23/10/2018",
+    "libelleCommuneEtablissement":"SUZE",
+    "codeCommuneEtablissement":26346,
+    "etatAdministratifEtablissement":"A",
+    "enseigne1Etablissement":"",
+    "enseigne2Etablissement":"",
+    "enseigne3Etablissement":"",
+    "denominationUsuelleEtablissement":"AU FLEURISSEMENT DE LEMPEREUR",
+    "activitePrincipaleEtablissement":"47.76Z",
+    "nomenclatureActivitePrincipaleEtablissement":"NAFRev2",
+    "geo_score":0.89,
+    "nom":"AU FLEURISSEMENT DE LEMPEREUR",
+    "dirigeant":"BENOIT HERVE LEMPEREUR",
+    "age":"49"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.149163,44.77773 ]
+    },
+    "properties": {
+    "siren":802018218,
+    "dateCreationEtablissement":"01/04/2014",
+    "activitePrincipaleRegistreMetiersEtablissement":"",
+    "dateDernierTraitementEtablissement":"28/11/2022",
+    "libelleCommuneEtablissement":"BEAUFORT-SUR-GERVANNE",
+    "codeCommuneEtablissement":26035,
+    "etatAdministratifEtablissement":"A",
+    "enseigne1Etablissement":"",
+    "enseigne2Etablissement":"",
+    "enseigne3Etablissement":"",
+    "denominationUsuelleEtablissement":"SARL FAUN'ETHIC",
+    "activitePrincipaleEtablissement":"47.76Z",
+    "nomenclatureActivitePrincipaleEtablissement":"NAFRev2",
+    "geo_score":0,
+    "nom":"FAUN'ETHIC (SARL FAUN'ETHIC)",
+    "dirigeant":"Ronald Vincent BOURGOIN",
+    "age":"41"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.186625,44.713841 ]
+    },
+    "properties": {
+    "siren":878202233,
+    "dateCreationEtablissement":"05/10/2019",
+    "activitePrincipaleRegistreMetiersEtablissement":"2370Z",
+    "dateDernierTraitementEtablissement":"17/10/2019",
+    "libelleCommuneEtablissement":"SAILLANS",
+    "codeCommuneEtablissement":26289,
+    "etatAdministratifEtablissement":"A",
+    "enseigne1Etablissement":"",
+    "enseigne2Etablissement":"",
+    "enseigne3Etablissement":"",
+    "denominationUsuelleEtablissement":"FLORENT MASSON",
+    "activitePrincipaleEtablissement":"23.70Z",
+    "nomenclatureActivitePrincipaleEtablissement":"NAFRev2",
+    "geo_score":0.94,
+    "nom":"MASSON FLORENT (FLORENT MASSON)",
+    "dirigeant":"",
+    "age":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.187568,44.696206 ]
+    },
+    "properties": {
+    "siren":877811430,
+    "dateCreationEtablissement":"07/10/2019",
+    "activitePrincipaleRegistreMetiersEtablissement":"2370Z",
+    "dateDernierTraitementEtablissement":"11/01/2021",
+    "libelleCommuneEtablissement":"SAILLANS",
+    "codeCommuneEtablissement":26289,
+    "etatAdministratifEtablissement":"A",
+    "enseigne1Etablissement":"",
+    "enseigne2Etablissement":"",
+    "enseigne3Etablissement":"",
+    "denominationUsuelleEtablissement":"CR GLOBAL HOME",
+    "activitePrincipaleEtablissement":"23.70Z",
+    "nomenclatureActivitePrincipaleEtablissement":"NAFRev2",
+    "geo_score":0.96,
+    "nom":"RAVIT CLEMENT (CR GLOBAL HOME)",
+    "dirigeant":"",
+    "age":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.25652,44.710342 ]
+    },
+    "properties": {
+    "siren":539509828,
+    "dateCreationEtablissement":"08/02/2012",
+    "activitePrincipaleRegistreMetiersEtablissement":"4776Z",
+    "dateDernierTraitementEtablissement":"18/03/2015",
+    "libelleCommuneEtablissement":"VERCHENY",
+    "codeCommuneEtablissement":26368,
+    "etatAdministratifEtablissement":"A",
+    "enseigne1Etablissement":"",
+    "enseigne2Etablissement":"",
+    "enseigne3Etablissement":"",
+    "denominationUsuelleEtablissement":"PETITE FLEUR",
+    "activitePrincipaleEtablissement":"47.76Z",
+    "nomenclatureActivitePrincipaleEtablissement":"NAFRev2",
+    "geo_score":0.53,
+    "nom":"MOUFFRON PATRICIA (PETITE FLEUR)",
+    "dirigeant":"",
+    "age":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.401728,44.709464 ]
+    },
+    "properties": {
+    "siren":525235792,
+    "dateCreationEtablissement":"29/01/2018",
+    "activitePrincipaleRegistreMetiersEtablissement":"4776Z",
+    "dateDernierTraitementEtablissement":"23/02/2021",
+    "libelleCommuneEtablissement":"SOLAURE EN DIOIS",
+    "codeCommuneEtablissement":26001,
+    "etatAdministratifEtablissement":"A",
+    "enseigne1Etablissement":"",
+    "enseigne2Etablissement":"",
+    "enseigne3Etablissement":"",
+    "denominationUsuelleEtablissement":"MADEMOISELLE PLUME",
+    "activitePrincipaleEtablissement":"47.76Z",
+    "nomenclatureActivitePrincipaleEtablissement":"NAFRev2",
+    "geo_score":0.95,
+    "nom":"GARY ANAIS (MADEMOISELLE PLUME)",
+    "dirigeant":"",
+    "age":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.413897,44.656534 ]
+    },
+    "properties": {
+    "siren":794568188,
+    "dateCreationEtablissement":"01/01/2020",
+    "activitePrincipaleRegistreMetiersEtablissement":"2370Z",
+    "dateDernierTraitementEtablissement":"23/02/2021",
+    "libelleCommuneEtablissement":"RECOUBEAU-JANSAC",
+    "codeCommuneEtablissement":26262,
+    "etatAdministratifEtablissement":"A",
+    "enseigne1Etablissement":"",
+    "enseigne2Etablissement":"",
+    "enseigne3Etablissement":"",
+    "denominationUsuelleEtablissement":"",
+    "activitePrincipaleEtablissement":"23.70Z",
+    "nomenclatureActivitePrincipaleEtablissement":"NAFRev2",
+    "geo_score":0.94,
+    "nom":"PHILIPPET ALEXANDRE",
+    "dirigeant":"",
+    "age":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.36985,44.750899 ]
+    },
+    "properties": {
+    "siren":808499909,
+    "dateCreationEtablissement":"27/10/2014",
+    "activitePrincipaleRegistreMetiersEtablissement":"2370Z",
+    "dateDernierTraitementEtablissement":"18/12/2014",
+    "libelleCommuneEtablissement":"DIE",
+    "codeCommuneEtablissement":26113,
+    "etatAdministratifEtablissement":"A",
+    "enseigne1Etablissement":"",
+    "enseigne2Etablissement":"",
+    "enseigne3Etablissement":"",
+    "denominationUsuelleEtablissement":"",
+    "activitePrincipaleEtablissement":"23.70Z",
+    "nomenclatureActivitePrincipaleEtablissement":"NAFRev2",
+    "geo_score":0.96,
+    "nom":"DUMONT FRANCOISE",
+    "dirigeant":"",
+    "age":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.869613,45.055982 ]
+    },
+    "properties": {
+    "siren":302077169,
+    "dateCreationEtablissement":"01/07/2017",
+    "activitePrincipaleRegistreMetiersEtablissement":"9603Z",
+    "dateDernierTraitementEtablissement":"29/08/2022",
+    "libelleCommuneEtablissement":"MERCUROL-VEAUNES",
+    "codeCommuneEtablissement":26179,
+    "etatAdministratifEtablissement":"A",
+    "enseigne1Etablissement":"POMPES FUNEBRES MARBRERIE SUCHIER",
+    "enseigne2Etablissement":"",
+    "enseigne3Etablissement":"",
+    "denominationUsuelleEtablissement":"POMPES FUNEBRES MARBRERIE SUCHIER",
+    "activitePrincipaleEtablissement":"96.03Z",
+    "nomenclatureActivitePrincipaleEtablissement":"NAFRev2",
+    "geo_score":0.56,
+    "nom":"FUNECAP SUD EST (MAISON COMBA)",
+    "dirigeant":"THIERRY JEAN JOEL GISSEROT, XAVIER Sous UN0 THOUMIEUX",
+    "age":"55, 66"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.367965,44.756512 ]
+    },
+    "properties": {
+    "siren":795291459,
+    "dateCreationEtablissement":"01/08/2019",
+    "activitePrincipaleRegistreMetiersEtablissement":"4776Z",
+    "dateDernierTraitementEtablissement":"29/08/2022",
+    "libelleCommuneEtablissement":"DIE",
+    "codeCommuneEtablissement":26113,
+    "etatAdministratifEtablissement":"A",
+    "enseigne1Etablissement":"A FLEURS DE POT",
+    "enseigne2Etablissement":"",
+    "enseigne3Etablissement":"",
+    "denominationUsuelleEtablissement":"",
+    "activitePrincipaleEtablissement":"47.76Z",
+    "nomenclatureActivitePrincipaleEtablissement":"NAFRev2",
+    "geo_score":0.95,
+    "nom":"ODDON MELODIE (A FLEURS DE POT)",
+    "dirigeant":"",
+    "age":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.366446,44.760406 ]
+    },
+    "properties": {
+    "siren":439458324,
+    "dateCreationEtablissement":"08/10/2001",
+    "activitePrincipaleRegistreMetiersEtablissement":"4776Z",
+    "dateDernierTraitementEtablissement":"26/09/2022",
+    "libelleCommuneEtablissement":"DIE",
+    "codeCommuneEtablissement":26113,
+    "etatAdministratifEtablissement":"A",
+    "enseigne1Etablissement":"",
+    "enseigne2Etablissement":"",
+    "enseigne3Etablissement":"",
+    "denominationUsuelleEtablissement":"",
+    "activitePrincipaleEtablissement":"47.76Z",
+    "nomenclatureActivitePrincipaleEtablissement":"NAFRev2",
+    "geo_score":0.96,
+    "nom":"GUILLAUD DOMINIQUE",
+    "dirigeant":"",
+    "age":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 4.819352,45.167643 ]
+    },
+    "properties": {
+    "siren":436780456,
+    "dateCreationEtablissement":"01/04/2016",
+    "activitePrincipaleRegistreMetiersEtablissement":"4776Z",
+    "dateDernierTraitementEtablissement":"29/08/2022",
+    "libelleCommuneEtablissement":"SAINT-VALLIER",
+    "codeCommuneEtablissement":26333,
+    "etatAdministratifEtablissement":"A",
+    "enseigne1Etablissement":"GAMM VERT",
+    "enseigne2Etablissement":"",
+    "enseigne3Etablissement":"",
+    "denominationUsuelleEtablissement":"",
+    "activitePrincipaleEtablissement":"47.76Z",
+    "nomenclatureActivitePrincipaleEtablissement":"NAFRev2",
+    "geo_score":0.94,
+    "nom":"COMPTOIR PLUS",
+    "dirigeant":"CHRISTOPHE PELLETIER",
+    "age":"64"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 5.367477,44.756336 ]
+    },
+    "properties": {
+    "siren":302077169,
+    "dateCreationEtablissement":"01/10/2022",
+    "activitePrincipaleRegistreMetiersEtablissement":"9603Z",
+    "dateDernierTraitementEtablissement":"21/10/2022",
+    "libelleCommuneEtablissement":"DIE",
+    "codeCommuneEtablissement":26113,
+    "etatAdministratifEtablissement":"A",
+    "enseigne1Etablissement":"POMPES FUNEBRES BOUILLANNE",
+    "enseigne2Etablissement":"",
+    "enseigne3Etablissement":"",
+    "denominationUsuelleEtablissement":"",
+    "activitePrincipaleEtablissement":"96.03Z",
+    "nomenclatureActivitePrincipaleEtablissement":"NAFRev2",
+    "geo_score":0.96,
+    "nom":"FUNECAP SUD EST (MAISON COMBA)",
+    "dirigeant":"THIERRY JEAN JOEL GISSEROT, XAVIER Sous UN0 THOUMIEUX",
+    "age":"55, 66"
+    }
+  }
+]
+}
